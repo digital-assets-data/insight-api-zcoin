@@ -72,7 +72,7 @@
         ]
     },
     {
-        "poolName": "Discus Fish",
+        "poolName": "F2Pool",
         "url": "http://f2pool.com/",
         "searchStrings": [
             "七彩神仙鱼",
@@ -237,6 +237,76 @@
         "url": "https://pool.btcc.com/",
         "searchStrings": [
             "/BTCC/"
+        ]
+    },
+    {
+        "poolName": "ZPOOL 2.0",
+        "url": "https://zpool.ca/",
+        "searchStrings": [
+            "zpool.ca"
+        ]
+    },
+    {
+        "poolName": "blazepool",
+        "url": "http://blazepool.com/",
+        "searchStrings": [
+            "blazepool"
+        ]
+    },
+    {
+        "poolName": "A Hash Pool",
+        "url": "https://www.ahashpool.com/",
+        "searchStrings": [
+            "ahashpool"
+        ]
+    },
+    {
+        "poolName": "TheBSODPool",
+        "url": "https://bsod.pw/",
+        "searchStrings": [
+            "bsod"
+        ]
+    },
+    {
+        "poolName": "YiiMP.eu",
+        "url": "http://yiimp.eu/",
+        "searchStrings": [
+            "yiimp"
+        ]
+    },
+    {
+        "poolName": "MintPond",
+        "url": "https://mintpond.com/",
+        "searchStrings": [
+            "/MintPond/"
+        ]
+    },
+    {
+        "poolName": "MintPond MTP Ref",
+        "url": "https://mintpond.com/",
+        "searchStrings": [
+            "/MintPond MTP Ref/"
+        ]
+    },
+    {
+        "poolName": "2Miners",
+        "url": "https://2miners.com",
+        "searchStrings": [
+            "2Miners"
+        ]
+    },
+    {
+        "poolName": "BlockQuarry",
+        "url": "https://hodl.blockquarry.com",
+        "searchStrings": [
+            "/BlockQuarry/"
+        ]
+    },
+    {
+        "poolName": "Miningpoolhub",
+        "url": "https://miningpoolhub.com/",
+        "searchStrings": [
+            "/mph/"
         ]
     }
 ]

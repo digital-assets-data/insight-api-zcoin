@@ -38,9 +38,9 @@
         }
     ],
     "bugs": {
-        "url": "https://github.com/technoprenerd/insight-api-zcoin/issues"
+        "url": "https://github.com/zcoinofficial/insight-api-zcoin/issues"
     },
-    "homepage": "https://github.com/technoprenerd/insight-api-zcoin",
+    "homepage": "https://github.com/zcoinofficial/insight-api-zcoin",
     "license": "MIT",
     "keywords": [
         "insight",
@@ -64,11 +64,14 @@
     "dependencies": {
         "async": "*",
         "zcore-lib": "zcoinofficial/zcore-lib",
-        "bitcore-message-zcoin": "git://github.com/sn-ntu/bitcore-message-zcoin.git",
+        "bitcore-message-zcoin": "zcoinofficial/bitcore-message-zcoin",
         "body-parser": "^1.13.3",
         "compression": "^1.6.1",
+        "decimal.js": "^10.0.2",
+        "functional-red-black-tree": "^1.0.1",
         "lodash": "^2.4.1",
         "lru-cache": "^4.0.1",
+        "mongodb": "^3.1.10",
         "morgan": "^1.7.0",
         "request": "^2.64.0"
     },

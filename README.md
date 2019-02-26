@@ -8,7 +8,7 @@ Work in progress.
 Create public api for Zcoin price ticker, integrate this in currency.js
 Create bitcore node zcoin.
 
-"bitcore-lib-zcoin": "^0.13.7", -- changed to github url
+"zcore-lib": "^0.13.7", -- changed to github url
     "bitcore-message-zcoin": "^1.0.1", -- also
 
 
@@ -24,6 +24,18 @@ bitcore-node-zcoin create mynode
 cd mynode
 bitcore-node-zcoin install insight-api-zcoin
 bitcore-node-zcoin start
+```
+
+## Since rich list implementation:
+bitcore-node-zcoin.json:
+```{
+  "servicesConfig": {
+    "insight-api-zcoin": {
+      "db": {
+        "url": "mongodb://localhost:27017/insight"
+      }
+    }
+  }
 ```
 
 The API endpoints will be available by default at: `http://localhost:3001/insight-api-zcoin/`
